@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Devops**
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 I’m currently Exploring **Kuberenetes** **Azure** **AWS** 
 
 - 👯 I’m looking to collaborate on **Open Source**
 
